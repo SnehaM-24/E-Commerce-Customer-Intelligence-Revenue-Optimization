@@ -278,8 +278,6 @@ The analysis enables management to identify:
 * Monthly revenue trends
 * Potential retention opportunities
 
-> Final numerical insights are based on the filtered dataset and dashboard results.
-
 ---
 
 # 🎯 Business Recommendations
